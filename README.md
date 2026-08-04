@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/jindalmayank2604/Leet-Code/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/jindalmayank2604/Leet-Code/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/jindalmayank2604/Leet-Code/tree/master/0217-contains-duplicate) |
 | [1480-running-sum-of-1d-array](https://github.com/jindalmayank2604/Leet-Code/tree/master/1480-running-sum-of-1d-array) |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/jindalmayank2604/Leet-Code/tree/master/0066-plus-one) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/jindalmayank2604/Leet-Code/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
