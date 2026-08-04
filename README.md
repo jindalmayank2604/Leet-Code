@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/jindalmayank2604/Leet-Code/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/jindalmayank2604/Leet-Code/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/jindalmayank2604/Leet-Code/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/jindalmayank2604/Leet-Code/tree/master/0217-contains-duplicate) |
@@ -34,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/jindalmayank2604/Leet-Code/tree/master/0035-search-insert-position) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/jindalmayank2604/Leet-Code/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/jindalmayank2604/Leet-Code/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
