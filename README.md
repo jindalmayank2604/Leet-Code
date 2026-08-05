@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0035-search-insert-position](https://github.com/jindalmayank2604/Leet-Code/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/jindalmayank2604/Leet-Code/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/jindalmayank2604/Leet-Code/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/jindalmayank2604/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/jindalmayank2604/Leet-Code/tree/master/0217-contains-duplicate) |
 | [1480-running-sum-of-1d-array](https://github.com/jindalmayank2604/Leet-Code/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/jindalmayank2604/Leet-Code/tree/master/1929-concatenation-of-array) |
@@ -48,4 +49,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/jindalmayank2604/Leet-Code/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/jindalmayank2604/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
