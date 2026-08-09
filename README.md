@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0118-pascals-triangle](https://github.com/jindalmayank2604/Leet-Code/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jindalmayank2604/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/jindalmayank2604/Leet-Code/tree/master/0217-contains-duplicate) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/jindalmayank2604/Leet-Code/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1480-running-sum-of-1d-array](https://github.com/jindalmayank2604/Leet-Code/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/jindalmayank2604/Leet-Code/tree/master/1929-concatenation-of-array) |
 ## Simulation
@@ -27,10 +28,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/jindalmayank2604/Leet-Code/tree/master/0217-contains-duplicate) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/jindalmayank2604/Leet-Code/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/jindalmayank2604/Leet-Code/tree/master/0217-contains-duplicate) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/jindalmayank2604/Leet-Code/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Math
 |  |
 | ------- |
@@ -39,12 +42,14 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/jindalmayank2604/Leet-Code/tree/master/0035-search-insert-position) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/jindalmayank2604/Leet-Code/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/jindalmayank2604/Leet-Code/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jindalmayank2604/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/jindalmayank2604/Leet-Code/tree/master/0031-next-permutation) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/jindalmayank2604/Leet-Code/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Greedy
 |  |
 | ------- |
