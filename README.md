@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jindalmayank2604/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jindalmayank2604/Leet-Code/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/jindalmayank2604/Leet-Code/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/jindalmayank2604/Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/jindalmayank2604/Leet-Code/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/jindalmayank2604/Leet-Code/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/jindalmayank2604/Leet-Code/tree/master/0088-merge-sorted-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/jindalmayank2604/Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/jindalmayank2604/Leet-Code/tree/master/0035-search-insert-position) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/jindalmayank2604/Leet-Code/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Two Pointers
