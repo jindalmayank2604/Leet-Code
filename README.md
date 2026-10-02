@@ -68,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0118-pascals-triangle](https://github.com/jindalmayank2604/Leet-Code/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jindalmayank2604/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Database
+|  |
+| ------- |
+| [0183-customers-who-never-order](https://github.com/jindalmayank2604/Leet-Code/tree/master/0183-customers-who-never-order) |
 <!---LeetCode Topics End-->
