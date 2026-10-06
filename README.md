@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0033-search-in-rotated-sorted-array](https://github.com/jindalmayank2604/Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/jindalmayank2604/Leet-Code/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/jindalmayank2604/Leet-Code/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/jindalmayank2604/Leet-Code/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/jindalmayank2604/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/jindalmayank2604/Leet-Code/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jindalmayank2604/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/jindalmayank2604/Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/jindalmayank2604/Leet-Code/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/jindalmayank2604/Leet-Code/tree/master/0074-search-a-2d-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/jindalmayank2604/Leet-Code/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Two Pointers
 |  |
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0175-combine-two-tables](https://github.com/jindalmayank2604/Leet-Code/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/jindalmayank2604/Leet-Code/tree/master/0176-second-highest-salary) |
 | [0183-customers-who-never-order](https://github.com/jindalmayank2604/Leet-Code/tree/master/0183-customers-who-never-order) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/jindalmayank2604/Leet-Code/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
